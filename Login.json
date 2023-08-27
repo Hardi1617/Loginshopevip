@@ -1,1 +1,10 @@
-{},
+{
+  "DOCTOR": {
+   "password": "$2y$12$yjTaN9BzGQLXO.WRjmaR5.uOAjF9TNMOaq/Wqlxteb.lr7aeFQNwO",
+   "expiry": "31-08-2023 12:00 PM"
+},
+  "DOCTOR2": {
+   "password": "$2y$12$SvFHLX4EJ6OcGFYRDU7I4uCrZPaGE5f5sQBEPk07aw755aJ4hoazm",
+   "expiry": "31-08-2023 12:00 PM"
+},
+}
